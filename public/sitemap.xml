@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <!-- Main homepage - highest priority -->
+  <url>
+    <loc>https://contactmetamask.top/</loc>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://contactmetamask.top/web-app-manifest-512x512.png</image:loc>
+      <image:title>Contact MetaMask Support | ContactMetaMask Help Center</image:title>
+    </image:image>
+  </url>
+  
+  <!-- Privacy Policy page -->
+  <url>
+    <loc>https://contactmetamask.top/privacy</loc>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <!-- Terms of Use page -->
+  <url>
+    <loc>https://contactmetamask.top/terms</loc>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

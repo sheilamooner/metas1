@@ -1,0 +1,22 @@
+# Security Contact Information
+Contact: mailto:support@contactmetamask.top
+Expires: 2027-10-22T00:00:00.000Z
+Preferred-Languages: en
+Canonical: https://contactmetamask.top/.well-known/security.txt
+Policy: https://contactmetamask.top/terms
+Hiring: https://contactmetamask.top/
+
+# Security Disclosure Policy
+# If you discover a security vulnerability, please report it to:
+# support@contactmetamask.top
+#
+# Please include:
+# - Type of issue (XSS, SQL injection, etc.)
+# - Full paths of source files related to the issue
+# - Location of the affected source code
+# - Any special configuration required to reproduce
+# - Step-by-step instructions to reproduce
+# - Proof-of-concept or exploit code (if possible)
+# - Impact of the issue
+#
+# Thank you for helping keep ContactMetaMask secure!
